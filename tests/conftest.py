@@ -19,5 +19,3 @@ def setting():
 
     with  allure.step("Закрываем браузер"):
         browser.quit()
-
-
